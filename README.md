@@ -8,6 +8,7 @@ This video demonstrates the Server Part of the voting system.
 ## Technologies Used
 - Android
 - Web Development (HTML, CSS, PHP)
+- MySQL
 
 ## YouTube Link 
 - <a href="https://youtu.be/DQRaHtktKY4">Click Here!</a>
